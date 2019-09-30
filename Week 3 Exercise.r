@@ -15,6 +15,8 @@ mat
 ###Question 3
 class(mat) == 'matrix'
 
+###Or can say is.matrix(mat)
+
 ###Question 4
 mat2 <- matrix(1:25, nrow=5, byrow=TRUE)
 mat2
